@@ -1,0 +1,1 @@
+SELECT full_name, email, course FROM students;
